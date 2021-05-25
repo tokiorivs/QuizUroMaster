@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which two words can be used interchangably?
   answers:
-  - Function & Blueprint
+  - Blueprint & Function
   - Blueprint & Method
   - Function & Instance
-  - Method & Function
+  - Function & Method
   correctAnswerIndex: 3
