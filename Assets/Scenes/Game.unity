@@ -336,6 +336,10 @@ PrefabInstance:
       value: AnswerButton (1)
       objectReference: {fileID: 0}
     - target: {fileID: 1743060516911499068, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1743060516911499068, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -367,6 +371,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5753628788959527451, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: db0e7bf384af41445a6d4134c2d754d0, type: 3}
     - target: {fileID: 6845422395503454487, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -633,6 +641,10 @@ PrefabInstance:
       value: AnswerButton (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1743060516911499068, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1743060516911499068, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -664,6 +676,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5753628788959527451, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: db0e7bf384af41445a6d4134c2d754d0, type: 3}
     - target: {fileID: 6845422395503454487, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -767,6 +783,10 @@ PrefabInstance:
       value: AnswerButton (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1743060516911499068, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1743060516911499068, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -798,6 +818,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5753628788959527451, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: db0e7bf384af41445a6d4134c2d754d0, type: 3}
     - target: {fileID: 6845422395503454487, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1515,6 +1539,10 @@ PrefabInstance:
       value: AnswerButton (0)
       objectReference: {fileID: 0}
     - target: {fileID: 1743060516911499068, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
+      propertyPath: m_Interactable
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1743060516911499068, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
       objectReference: {fileID: 0}
@@ -1542,6 +1570,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5753628788959527451, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: db0e7bf384af41445a6d4134c2d754d0, type: 3}
     - target: {fileID: 6845422395503454487, guid: 61d6c72b6ab282e4691cdb59123e8697, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
