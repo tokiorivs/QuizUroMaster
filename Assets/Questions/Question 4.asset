@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f8a105869519254f86a31387b8a0469, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: What are we doing when we "call a method"?
+  question: "\xBFCu\xE1l de las siguientes t\xE9cnicas es m\xE1s segura y eficaz
+    en el tratamiento del crecimiento prost\xE1tico?"
   answers:
-  - Naming our methods properly
-  - Telling the code inside a method to execute
-  - Returning a value form another place in code
-  - Phoning our actor friend
-  correctAnswerIndex: 1
+  - 'Holep '
+  - Green lep
+  - Rtu-p
+  - Rezum
+  correctAnswerIndex: 0

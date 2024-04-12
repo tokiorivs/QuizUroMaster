@@ -12,10 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f8a105869519254f86a31387b8a0469, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: Which two words can be used interchangably?
+  question: "\xBFCu\xE1ntas horas despu\xE9s de producirse una torsi\xF3n podemos
+    encontrar el test\xEDculo viable?"
   answers:
-  - Blueprint & Function
-  - Blueprint & Method
-  - Function & Instance
-  - Function & Method
-  correctAnswerIndex: 3
+  - 5 horas
+  - 6 horas
+  - 4 horas
+  - 3 horas
+  correctAnswerIndex: 1

@@ -29,6 +29,7 @@ public class ScoreKeeper : MonoBehaviour
 
     public int CalculateScore()
     {
-        return Mathf.RoundToInt(correctAnswers / (float)questionsSeen * 100);
+        int puntaje = correctAnswers * 12;
+        return puntaje = correctAnswers * 12;
     }
 }

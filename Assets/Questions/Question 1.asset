@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f8a105869519254f86a31387b8a0469, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: What is the correct syntax for creating a new integer variable with an
-    inital value of 12?
+  question: " En ni\xF1os con diagn\xF3stico de test\xEDculo no descendido, \xBFhasta
+    qu\xE9 edad se puede diferir el tratamiento quir\xFArgico?"
   answers:
-  - int num = 12;
-  - Int num = "12";
-  - Int num = 12;
-  - int num = "12";
-  correctAnswerIndex: 0
+  - 6 meses
+  - "1 a\xF1o"
+  - "2 a\xF1os"
+  - 8 meses
+  correctAnswerIndex: 2

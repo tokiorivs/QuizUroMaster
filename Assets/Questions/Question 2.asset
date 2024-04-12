@@ -12,11 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f8a105869519254f86a31387b8a0469, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: If all other conditions are false, which conditional statement would
-    you use as a catch all?
+  question: " \xBFCu\xE1l es el rango de edad m\xE1s frecuente en tumores testiculares?"
   answers:
-  - if
-  - else if
-  - else
-  - when
-  correctAnswerIndex: 2
+  - De 30 a 50
+  - De 10 a 30
+  - De 20 a 30
+  - 'De 20 a 40 '
+  correctAnswerIndex: 3

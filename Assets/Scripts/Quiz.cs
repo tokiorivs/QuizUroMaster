@@ -69,7 +69,7 @@ public class Quiz : MonoBehaviour
         DisplayAnswer(index);
         SetButtonState(false);
         timer.CancelTimer();
-        scoreText.text = "Score: " + scoreKeeper.CalculateScore() + "%";
+        scoreText.text = " " + scoreKeeper.CalculateScore() ;
     }
 
     void DisplayAnswer(int index)
@@ -77,7 +77,7 @@ public class Quiz : MonoBehaviour
         Image buttonImage;
         if (index == currentQuestion.GetCorrectAnswerIndex())
         {
-            questionText.text = "Correct!";
+            questionText.text = "Correcto!";
             buttonImage = answerButtons[index].GetComponent<Image>();
             buttonImage.sprite = correctAnswerSprite;
             scoreKeeper.IncrementCorrectAnswers();
@@ -86,7 +86,7 @@ public class Quiz : MonoBehaviour
         {
             correctAnswerIndex = currentQuestion.GetCorrectAnswerIndex();
             string correctAnswer = currentQuestion.GetAnswer(correctAnswerIndex);
-            questionText.text = "Sorry, the correct answer was;\n" + correctAnswer;
+            questionText.text = "La Respuesta Correcta es\n" + correctAnswer;
             buttonImage = answerButtons[correctAnswerIndex].GetComponent<Image>();
             buttonImage.sprite = correctAnswerSprite;
         }
